@@ -1,1 +1,1 @@
-This library uses explorative testing on the website "https://files.perry.fyi/hero" for educational purposes. If the link doesn't work reference the website "https://angular.io/tutorial/tour-of-heroes".
+This library uses exploratory testing on the website "https://files.perry.fyi/hero" for educational purposes. If the link doesn't work visit the website "https://angular.io/tutorial/tour-of-heroes" for more information about the tested website.
